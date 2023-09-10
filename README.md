@@ -1,2 +1,5 @@
 # js-blackjack
- Project for Learn JavaScript Scrimba course
+## Project for "Learn JavaScript" Scrimba course
+
+
+Simple JavaScript app
